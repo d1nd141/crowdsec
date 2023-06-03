@@ -7,3 +7,4 @@
 \bdownloadFlile.cgi\b
 \bFileTransport\b
 \bwlwmanifest.xml\b
+\bcurl\b
